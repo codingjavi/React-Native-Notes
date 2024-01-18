@@ -1,6 +1,6 @@
-# Expo Router Example
+# React-Native-Notes
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+These are some notes I took while learning react native. There is still work to be done. Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
 ## 🚀 How to use
 
